@@ -1,5 +1,7 @@
 package com.example.myfirstapp;
 
+// TEST ______________----------------_______________
+
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
@@ -22,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
+    private int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
