@@ -7,7 +7,7 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Shut the fuck up</string>
+    <string name="hello_first_fragment">Hello! :)</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="buttonText">Jesus Christ this is really weird to do</string>
+    <string name="buttonText">I guess I could wrap my head around this *shrug*</string>
 </resources>
